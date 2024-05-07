@@ -46,3 +46,5 @@ if __name__ == '__main__':
     for img in imgList:
         Save(img, num)
         num += 1
+
+# 只能爬取某个章节
