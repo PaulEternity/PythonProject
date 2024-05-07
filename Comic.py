@@ -1,8 +1,7 @@
 import requests
 import os  # 文件操作
 
-url = 'https://comic.mkzcdn.com/chapter/content/v1/?chapter_id=476064&comic_id=207622&format=1&quality=1&sign=99cdd1b0601302f9f67e94b34bd7c805&type=1&uid=72077855'
-
+url = 'https://comic.mkzcdn.com/chapter/content/v1/?chapter_id=962617&comic_id=208643&format=1&quality=1&sign=99cdd1b0601302f9f67e94b34bd7c805&type=1&uid=72077855'
 
 # 找到存放整个章节图片的位置 CV某个图片.jpg前的部分进行搜索，查找与该章节图片数一致的链接，就是url
 

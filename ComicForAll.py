@@ -1,7 +1,7 @@
 import requests
 import os
 
-comic_id = '216443'  # 漫画的编号
+comic_id = '216744'  # 漫画的编号
 url = f'https://comic.mkzcdn.com/chapter/v1/?comic_id={comic_id}'  # 总章节目录
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
